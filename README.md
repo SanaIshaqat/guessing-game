@@ -25,3 +25,5 @@ After all attempts have been exhausted, tell the user the correct answer. Consid
 - The guesses will end once the user guesses a correct answer or they run out of attempts.
 
 - Keep track of the total number of correct answers. At the end tell them how many they got correct out of the 7 questions asked.
+
+- Organized code questions inside a function and then calling it.
